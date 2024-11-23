@@ -2,7 +2,7 @@ package es.Miulpgc.software.view;
 
 import es.Miulpgc.software.model.Money;
 
-public interface MoeyDisplay {
+public interface MoneyDisplay {
 
     void show(Money money);
 }
