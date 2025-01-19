@@ -1,4 +1,4 @@
-package es.Miulpgc.software.model;
+package es.Miulpgc.software.architecture.model;
 
 public record Money(double amount, Currency currency) {
 }
